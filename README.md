@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything I can about programming
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goal: Take part in a project
+- 🥅 2021 Goal: Take part in a project
 - ⚡ Hobbies: I like videogames and photography
 
 ### 🎧 Spotify Playing
