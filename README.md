@@ -9,10 +9,6 @@
 - 🥅 2022 Goal: Take part in a project
 - ⚡ Hobbies: I like videogames and photography
 
-### 🎧 Spotify Playing
-
-[<img src="https://spotify-now-playing-kappa-puce.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mirkok2?si=075abae3135d4ee7&nd=1)
-
 ### 💻 Languages and Tools:
 
 
