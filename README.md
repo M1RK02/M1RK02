@@ -1,4 +1,4 @@
-### <img src="https://i.imgur.com/QfECAvC.gif" width="40px"/> Hi there, I'm Mirko
+### <img src="https://i.imgur.com/QfECAvC.gif" width="10px"/> Hi there, I'm Mirko
 
 ---
 
