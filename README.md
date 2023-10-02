@@ -2,7 +2,7 @@
 
 ---
 
-### 📚 I'm a Student at <a href="https://www.polimi.it">Politecnico di Milano</a> and (maybe) a Developer!
+### 📚 I'm a Student at [Politecnico di Milano](https://www.polimi.it) and (maybe) a Developer!
 
 - 🌱 I’m currently learning everything I can about programming
 - 👯 I’m looking to collaborate with other developers
