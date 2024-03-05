@@ -1,22 +1,15 @@
-### Hi there, I'm Mirko 👋🏼
-
----
-
+# 💫 About Me:
 ### 📚 I'm a Student at [Politecnico di Milano](https://www.polimi.it) and (maybe) a Developer!
 
-- 🌱 I’m currently learning everything I can about programming
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goal: Take part in a project
-- ⚡ Hobbies: I like videogames and photography
+🔭 I’m currently working on two projects for my Uni (One about hardware description VHDL and one about software engineering)<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning everything I can about programming<br>🥅 2024 Goal: Graduate!<br>⚡ Hobbies: I like videogames and photography
 
----
 
-### 💻 Languages and Tools:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=M1RK02&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M1RK02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M1RK02&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a> 
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> 
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
