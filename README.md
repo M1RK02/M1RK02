@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Mirko, a passionate software developer and student at [Politecnico di Milano](https://www.polimi.it). I love diving into complex systems and solving challenging problems with code. My interests revolve around software engineering, algorithms, and building cool projects with Java, C, and more!
 
-🚀 I’m currently pursuing my Master's in Software Engineering for Complex Systems, excited to explore cutting-edge technologies and grow as a developer. Check out some of my academic and personal projects, including the recreation of board games and algorithmic problem-solving.
+🚀 I’m currently pursuing my Master's in Computer Science And Engineering specializing in Smart Wearable Technologies, excited to explore cutting-edge technologies and grow as a developer. Check out some of my academic and personal projects, including the recreation of board games and algorithmic problem-solving.
 
 📫 Let’s connect and collaborate! You can reach me at [my email](mailto:picamirko02@gmail.com) or check out my repositories to see what I’m working on.
 
